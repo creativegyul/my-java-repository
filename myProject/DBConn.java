@@ -1,4 +1,4 @@
-package ex11_guest;
+package myProject;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
